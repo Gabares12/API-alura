@@ -1,7 +1,5 @@
-package ModuloUM.ModuloDOIS;
+package ModuloDOIS;
 
-public record Pessoa(String nome, String cidade, int idade) {
+public record Pessoa (String nome, String cidade, int idade){
+
 }
-
-
-
